@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on EduTech startup as a backend engineer
-- 🌱 I’m currently learning Go as much as possibl
+- 🌱 I’m currently learning Go as much as possible
 - 🤔 I’m looking for help with Machine Learning technologies
 - 💬 Ask me about backend
 - 📫 How to reach me: diasmashikovnasa@gmail.com
