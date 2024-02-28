@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dias</h1>
 <h3 align="center">Android Engineer</h3>
 
-- 🔭 I’m currently working on [Open Source Android App](https://github.com/Ivy-Apps/ivy-wallet)
+- 🔭 I’m currently working on [Ivy-wallet Android App](https://github.com/Ivy-Apps/ivy-wallet)
 
 - 🌱 I’m currently learning **Performance Optimization on Android**
 
