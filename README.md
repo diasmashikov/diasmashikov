@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dias</h1>
-<h3 align="center">Android Engineer</h3>
+<h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [Ivy-wallet Android App](https://github.com/Ivy-Apps/ivy-wallet)
+- 🔭 I’m currently working on [the Histology Learning Image Platform for CPACE at UPMCp](https://www.path.pitt.edu/divisions/computational-pathology-informatics/computational-pathology-ai-center-excellence)
 
-- 🌱 I’m currently learning **Performance Optimization on Android**
+- 🌱 I’m currently learning **Deployment Procedures with FastAPI to handle the load in ML endpoints**
 
-- 👨‍💻 All of my projects are available at [http://tinyurl.com/diasportfolio](http://tinyurl.com/diasportfolio)
+- 👨‍💻 My personal website [http://tinyurl.com/diasportfolio](http://tinyurl.com/diasportfolio)
 
-- 💬 Ask me about **Android, Flutter, Golang, NodeJS, and Cloud Services (GCP or AWS)**
+- 💬 Ask me about **Next.js, React, FastAPI, DevOps, MongoDB, PostgreSQL**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18t69JHJy2kCsY6wTbMVJX_tlyS3u38Qn/view?usp=share_link](https://drive.google.com/file/d/18t69JHJy2kCsY6wTbMVJX_tlyS3u38Qn/view?usp=share_link)
 
