@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dias</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [Histology Learning Image Platform for CPACE at UPMC](https://www.path.pitt.edu/divisions/computational-pathology-informatics/computational-pathology-ai-center-excellence)
-
-- 🌱 I’m currently learning **Deployment Procedures with FastAPI to handle the load in ML endpoints**
+- 🔭 I’m currently working on High-Performance CPU-bounded Backend Systems with Go & Google Cloud Platform
 
 - 👨‍💻 My personal website [https://diasmashikov.com](https://diasmashikov.com)
 
-- 💬 Ask me about **Next.js, React, FastAPI, DevOps, MongoDB, PostgreSQL**
+- 💬 Ask me about **Go, GCP, PostgreSQL, Next.js, DevOps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
