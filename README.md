@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dias</h1>
-<h3 align="center">Full-Stack Software Engineer</h3>
+<h3 align="center">Distributed Systems Engineer</h3>
 
 - 🔭 Currently working on my distributed in-memory data store that scales horizontally for write & scale. Meanwhile, finishing up my last semester at the University of Georgia & interning at NVIDIA
 
