@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dias</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on High-Performance CPU-bounded Backend Systems with Go & Google Cloud Platform
+- 🔭 Currently working on my distributed in-memory data store that scales horizontally for write & scale. Meanwhile, finishing up my last semester at the University of Georgia & interning at NVIDIA
 
-- 👨‍💻 My personal website [https://diasmashikov.com](https://diasmashikov.com)
-
-- 💬 Ask me about **Go, GCP, PostgreSQL, Next.js, DevOps**
+- 💬 Ask me about **Go, Distributed Systems, PostgreSQL, Redis, Kafka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
